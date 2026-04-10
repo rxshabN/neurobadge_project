@@ -1,0 +1,134 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Neuro-Badge Live Dashboard</title>
+    <script src="https://www.gstatic.com/firebasejs/8.10.1/firebase-app.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/8.10.1/firebase-database.js"></script>
+
+    <style>
+      body {
+        font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+        background-color: #0f172a;
+        color: #e2e8f0;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        margin-top: 50px;
+      }
+      .card {
+        background-color: #1e293b;
+        padding: 30px;
+        border-radius: 15px;
+        box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.5);
+        text-align: center;
+        width: 350px;
+        margin-bottom: 20px;
+        border-top: 5px solid #3b82f6;
+        transition: border-color 0.3s;
+      }
+      .data-value {
+        font-size: 3rem;
+        font-weight: bold;
+        margin: 10px 0;
+        color: #38bdf8;
+      }
+      .status-alert {
+        background-color: #ef4444;
+        color: white;
+        padding: 15px;
+        border-radius: 8px;
+        font-size: 1.5rem;
+        font-weight: bold;
+        display: none;
+        animation: pulse 1.5s infinite;
+        margin-top: 15px;
+      }
+      @keyframes pulse {
+        0% {
+          transform: scale(1);
+        }
+        50% {
+          transform: scale(1.05);
+        }
+        100% {
+          transform: scale(1);
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Neuro-Badge Telemetry</h1>
+
+    <div class="card" id="statusCard">
+      <h2>System Status</h2>
+      <div
+        id="statusText"
+        class="data-value"
+        style="font-size: 2rem; color: #e2e8f0"
+      >
+        Connecting...
+      </div>
+      <div id="alertBox" class="status-alert">⚠️ ACTION REQUIRED ⚠️</div>
+    </div>
+
+    <div class="card">
+      <h2>Air Quality (CO2e)</h2>
+      <div id="aqiValue" class="data-value">-- PPM</div>
+    </div>
+
+    <div class="card">
+      <h2>Temperature</h2>
+      <div id="tempValue" class="data-value">-- °C</div>
+    </div>
+
+    <script>
+      const firebaseConfig = {
+        apiKey: "AIzaSyCWoqmmU3XD9cih0_SqemQ3GLk361g4d-M",
+        authDomain: "neuro-badge.firebaseapp.com",
+        databaseURL:
+          "https://neuro-badge-default-rtdb.asia-southeast1.firebasedatabase.app",
+        projectId: "neuro-badge",
+        storageBucket: "neuro-badge.firebasestorage.app",
+        messagingSenderId: "441296429286",
+        appId: "1:441296429286:web:b6db8de9c826fad84fdb27",
+      };
+
+      firebase.initializeApp(firebaseConfig);
+      const database = firebase.database();
+
+      const aqiRef = database.ref("NeuroBadge/AQI");
+      const tempRef = database.ref("NeuroBadge/Temperature");
+      const statusRef = database.ref("NeuroBadge/Status");
+
+      aqiRef.on("value", (snapshot) => {
+        const val = snapshot.val();
+        document.getElementById("aqiValue").innerText =
+          (val !== null ? val : "--") + " PPM";
+      });
+
+      tempRef.on("value", (snapshot) => {
+        const val = snapshot.val();
+        document.getElementById("tempValue").innerText =
+          (val !== null ? val : "--") + " °C";
+      });
+
+      statusRef.on("value", (snapshot) => {
+        const status = snapshot.val() || "Waiting for data...";
+        document.getElementById("statusText").innerText = status;
+
+        const alertBox = document.getElementById("alertBox");
+        const statusCard = document.getElementById("statusCard");
+
+        if (status.includes("FATIGUE") || status.includes("ACT:")) {
+          alertBox.style.display = "block";
+          statusCard.style.borderTop = "5px solid #ef4444";
+        } else {
+          alertBox.style.display = "none";
+          statusCard.style.borderTop = "5px solid #3b82f6";
+        }
+      });
+    </script>
+  </body>
+</html>
