@@ -20,6 +20,12 @@ Instead of passively recording data, the system performs edge-based root-cause a
   <img src="images/arch.png" alt="System Architecture Block Diagram" width="auto" />
 </p>
 
+## 2. System Architecture (Circuit Diagram)
+
+<p align="center">
+  <img src="images/circuit.png" alt="System Architecture Circuit Diagram" width="auto" />
+</p>
+
 ---
 
 ## 2. Hardware Components and Total Cost
