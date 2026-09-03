@@ -83,6 +83,11 @@
       <div id="tempValue" class="data-value">-- °C</div>
     </div>
 
+    <div class="card">
+      <h2>Relative Humidity</h2>
+      <div id="humValue" class="data-value">-- %</div>
+    </div>
+
     <script>
       const firebaseConfig = {
         apiKey: "AIzaSyCWoqmmU3XD9cih0_SqemQ3GLk361g4d-M",
@@ -101,6 +106,7 @@
       const aqiRef = database.ref("NeuroBadge/AQI");
       const tempRef = database.ref("NeuroBadge/Temperature");
       const statusRef = database.ref("NeuroBadge/Status");
+      const humRef = database.ref("NeuroBadge/Humidity");
 
       aqiRef.on("value", (snapshot) => {
         const val = snapshot.val();
@@ -112,6 +118,12 @@
         const val = snapshot.val();
         document.getElementById("tempValue").innerText =
           (val !== null ? val : "--") + " °C";
+      });
+
+      humRef.on("value", (snapshot) => {
+        const val = snapshot.val();
+        document.getElementById("humValue").innerText =
+          (val !== null ? val : "--") + " %";
       });
 
       statusRef.on("value", (snapshot) => {
