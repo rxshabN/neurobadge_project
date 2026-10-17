@@ -1,0 +1,509 @@
+19:26:25.807 Rs=304.25k ppm=405 T=25.2 H=67 dT=-0.2 dH=0 slope=12ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=509us actduty=0.00% wifi=down up=71s
+19:26:27.803 Rs=307.88k ppm=392 T=25.9 H=67 dT=0.4 dH=0 slope=-1ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=463us actduty=0.00% wifi=down up=73s
+19:26:29.792 Rs=304.05k ppm=406 T=25.6 H=67 dT=0.1 dH=0 slope=7ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=508us actduty=0.00% wifi=down up=75s
+19:26:31.799 Rs=307.57k ppm=393 T=25.4 H=67 dT=-0.1 dH=0 slope=10ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=507us actduty=0.00% wifi=down up=77s
+19:26:33.797 Rs=308.39k ppm=390 T=25.4 H=67 dT=-0.1 dH=0 slope=-0ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=495us actduty=0.00% wifi=down up=79s
+19:26:35.804 Rs=307.47k ppm=393 T=25.4 H=67 dT=-0.1 dH=0 slope=12ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=507us actduty=0.00% wifi=down up=81s
+19:26:37.800 Rs=305.75k ppm=399 T=25.4 H=67 dT=-0.1 dH=0 slope=11ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=452us actduty=0.00% wifi=down up=83s
+19:26:39.801 Rs=308.18k ppm=391 T=25.4 H=67 dT=-0.1 dH=0 slope=11ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=508us actduty=0.00% wifi=down up=85s
+19:26:41.805 Rs=313.79k ppm=372 T=25.4 H=67 dT=-0.1 dH=0 slope=-4ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=505us actduty=0.00% wifi=down up=87s
+19:26:43.801 Rs=311.17k ppm=380 T=25.3 H=67 dT=-0.1 dH=0 slope=1ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=465us actduty=0.00% wifi=down up=89s
+19:26:45.795 Rs=311.27k ppm=380 T=25.6 H=67 dT=0.1 dH=0 slope=-15ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=508us actduty=0.00% wifi=down up=91s
+19:26:47.794 Rs=304.15k ppm=405 T=25.9 H=67 dT=0.4 dH=0 slope=-12ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=521us actduty=0.00% wifi=down up=93s
+19:26:49.795 Rs=305.55k ppm=400 T=25.7 H=67 dT=0.2 dH=0 slope=-2ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=498us actduty=0.00% wifi=down up=95s
+19:26:51.799 Rs=308.08k ppm=391 T=25.6 H=68 dT=0.1 dH=1 slope=-19ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=507us actduty=0.00% wifi=down up=97s
+19:26:53.798 Rs=310.96k ppm=381 T=25.1 H=68 dT=-0.4 dH=1 slope=-25ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=450us actduty=0.00% wifi=down up=99s
+19:26:55.803 Rs=309.20k ppm=387 T=25.3 H=67 dT=-0.2 dH=-0 slope=-17ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=510us actduty=0.00% wifi=down up=101s
+19:26:57.982 E (154502) wifi:sta is connecting, cannot set config
+19:26:58.703 Rs=310.03k ppm=384 T=25.0 H=68 dT=-0.4 dH=1 slope=-21ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=527us actduty=0.00% wifi=down up=104s
+19:27:01.938 Rs=308.39k ppm=390 T=25.4 H=68 dT=-0.0 dH=1 slope=-8ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=460us actduty=0.00% wifi=down up=107s
+19:27:02.617 Rs=308.28k ppm=390 T=25.5 H=68 dT=0.1 dH=1 slope=-4ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=460us actduty=0.00% wifi=up up=108s
+19:27:09.365 [fb] anonymous sign-up ok
+19:27:10.045 [fb] ready, publishing
+19:27:15.098 Rs=297.35k ppm=431 T=25.4 H=68 dT=-0.0 dH=1 slope=29ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=455us actduty=0.00% wifi=up up=120s
+19:27:17.954 Rs=297.54k ppm=431 T=25.5 H=68 dT=0.1 dH=1 slope=98ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=455us actduty=0.00% wifi=up up=123s
+19:27:20.798 Rs=301.40k ppm=416 T=25.4 H=68 dT=-0.0 dH=1 slope=103ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=458us actduty=0.00% wifi=up up=126s
+19:27:22.302 Rs=296.02k ppm=437 T=25.1 H=68 dT=-0.3 dH=1 slope=118ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=456us actduty=0.00% wifi=up up=127s
+19:27:23.897 Rs=299.16k ppm=424 T=25.6 H=68 dT=0.2 dH=1 slope=112ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=453us actduty=0.00% wifi=up up=129s
+19:27:25.321 Rs=304.65k ppm=403 T=25.1 H=68 dT=-0.3 dH=1 slope=79ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=456us actduty=0.00% wifi=up up=131s
+19:27:26.555 Rs=302.77k ppm=410 T=25.4 H=68 dT=-0.0 dH=1 slope=53ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=456us actduty=0.00% wifi=up up=132s
+19:27:28.426 Rs=297.44k ppm=431 T=25.5 H=68 dT=0.1 dH=1 slope=38ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=450us actduty=0.00% wifi=up up=134s
+19:27:30.432 Rs=295.17k ppm=440 T=25.4 H=68 dT=-0.0 dH=1 slope=30ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=451us actduty=0.00% wifi=up up=136s
+19:27:32.301 Rs=296.97k ppm=433 T=25.6 H=68 dT=0.2 dH=1 slope=11ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=451us actduty=0.00% wifi=up up=137s
+19:27:34.336 Rs=301.00k ppm=417 T=25.3 H=68 dT=-0.1 dH=1 slope=11ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=450us actduty=0.00% wifi=up up=140s
+19:27:36.382 Rs=295.17k ppm=440 T=25.5 H=68 dT=0.1 dH=1 slope=0ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=452us actduty=0.00% wifi=up up=142s
+19:27:38.426 Rs=302.08k ppm=413 T=25.9 H=68 dT=0.5 dH=1 slope=-2ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=451us actduty=0.00% wifi=up up=144s
+19:27:40.314 Rs=302.97k ppm=410 T=25.0 H=68 dT=-0.4 dH=1 slope=-11ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=450us actduty=0.00% wifi=up up=146s
+19:27:42.406 Rs=298.97k ppm=425 T=25.2 H=68 dT=-0.2 dH=1 slope=-7ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=450us actduty=0.00% wifi=up up=148s
+19:27:44.360 Rs=297.54k ppm=431 T=25.4 H=68 dT=-0.0 dH=1 slope=0ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=453us actduty=0.00% wifi=up up=150s
+19:27:46.415 Rs=305.35k ppm=401 T=25.3 H=68 dT=-0.1 dH=1 slope=-12ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=473us actduty=0.00% wifi=up up=152s
+19:27:48.281 Rs=302.47k ppm=411 T=25.8 H=68 dT=0.4 dH=1 slope=-25ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=450us actduty=0.00% wifi=up up=153s
+19:27:50.304 Rs=299.84k ppm=421 T=25.9 H=68 dT=0.5 dH=1 slope=-12ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=452us actduty=0.00% wifi=up up=155s
+19:27:52.379 Rs=298.20k ppm=428 T=25.1 H=68 dT=-0.3 dH=1 slope=-4ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=450us actduty=0.00% wifi=up up=158s
+19:27:54.240 Rs=312.42k ppm=376 T=25.4 H=68 dT=-0.0 dH=1 slope=-53ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=450us actduty=0.00% wifi=up up=159s
+19:27:56.286 Rs=303.26k ppm=408 T=25.4 H=68 dT=-0.0 dH=1 slope=-68ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=453us actduty=0.00% wifi=up up=161s
+19:27:58.396 Rs=299.45k ppm=423 T=25.3 H=68 dT=-0.1 dH=1 slope=-55ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=450us actduty=0.00% wifi=up up=164s
+19:28:01.183 Rs=298.59k ppm=426 T=25.2 H=68 dT=-0.2 dH=0 slope=-31ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=458us actduty=0.00% wifi=up up=166s
+19:28:03.008 Rs=301.88k ppm=414 T=25.9 H=68 dT=0.5 dH=0 slope=-20ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=458us actduty=0.00% wifi=up up=168s
+19:28:04.635 Rs=298.78k ppm=426 T=25.9 H=68 dT=0.5 dH=0 slope=-13ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=451us actduty=0.00% wifi=up up=170s
+19:28:06.502 Rs=294.52k ppm=443 T=25.4 H=68 dT=-0.0 dH=0 slope=27ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=450us actduty=0.00% wifi=up up=172s
+19:28:08.550 Rs=297.63k ppm=430 T=25.9 H=68 dT=0.4 dH=0 slope=33ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=451us actduty=0.00% wifi=up up=174s
+19:28:10.376 Rs=297.63k ppm=430 T=25.3 H=68 dT=-0.2 dH=0 slope=35ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=450us actduty=0.00% wifi=up up=176s
+19:28:12.628 Rs=301.00k ppm=417 T=25.2 H=68 dT=-0.2 dH=0 slope=37ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=450us actduty=0.00% wifi=up up=178s
+19:28:14.472 Rs=297.06k ppm=433 T=25.0 H=68 dT=-0.4 dH=0 slope=57ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=464us actduty=0.00% wifi=up up=180s
+19:28:16.308 Rs=297.54k ppm=431 T=25.1 H=68 dT=-0.3 dH=0 slope=50ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=462us actduty=0.00% wifi=up up=181s
+19:28:18.381 Rs=303.96k ppm=406 T=25.5 H=68 dT=0.1 dH=0 slope=30ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=451us actduty=0.00% wifi=up up=184s
+19:28:20.411 Rs=300.23k ppm=420 T=25.5 H=68 dT=0.1 dH=0 slope=30ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=451us actduty=0.00% wifi=up up=186s
+19:28:22.485 Rs=303.86k ppm=406 T=25.7 H=68 dT=0.3 dH=0 slope=25ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=450us actduty=0.00% wifi=up up=188s
+19:28:24.316 Rs=297.82k ppm=429 T=25.1 H=68 dT=-0.3 dH=0 slope=-4ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=450us actduty=0.00% wifi=up up=190s
+19:28:26.362 Rs=298.01k ppm=429 T=25.4 H=68 dT=-0.0 dH=0 slope=-12ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=452us actduty=0.00% wifi=up up=192s
+19:28:28.396 Rs=301.98k ppm=413 T=25.5 H=68 dT=0.1 dH=0 slope=-21ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=450us actduty=0.00% wifi=up up=194s
+19:28:30.337 Rs=300.71k ppm=418 T=25.9 H=68 dT=0.5 dH=0 slope=-22ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=451us actduty=0.00% wifi=up up=196s
+19:28:32.286 Rs=300.42k ppm=419 T=25.2 H=68 dT=-0.2 dH=0 slope=-33ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=453us actduty=0.00% wifi=up up=197s
+19:28:34.249 Rs=299.45k ppm=423 T=25.8 H=68 dT=0.4 dH=0 slope=-32ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=450us actduty=0.00% wifi=up up=199s
+19:28:36.227 Rs=301.79k ppm=414 T=25.7 H=68 dT=0.2 dH=0 slope=-21ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=450us actduty=0.00% wifi=up up=201s
+19:28:38.639 Rs=300.23k ppm=420 T=25.0 H=68 dT=-0.4 dH=0 slope=-15ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=451us actduty=0.00% wifi=up up=204s
+19:28:40.299 Rs=301.20k ppm=416 T=25.1 H=68 dT=-0.3 dH=0 slope=-10ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=450us actduty=0.00% wifi=up up=205s
+19:28:42.325 Rs=300.42k ppm=419 T=25.5 H=68 dT=0.1 dH=0 slope=-12ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=451us actduty=0.00% wifi=up up=208s
+19:28:44.235 Rs=298.59k ppm=426 T=25.6 H=68 dT=0.2 dH=0 slope=4ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=453us actduty=0.00% wifi=up up=209s
+19:28:46.633 Rs=300.23k ppm=420 T=25.9 H=68 dT=0.5 dH=0 slope=14ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=449us actduty=0.00% wifi=up up=212s
+19:28:48.488 Rs=301.49k ppm=415 T=25.2 H=68 dT=-0.2 dH=0 slope=0ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=451us actduty=0.00% wifi=up up=214s
+19:28:50.315 Rs=299.16k ppm=424 T=25.9 H=68 dT=0.4 dH=0 slope=5ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=453us actduty=0.00% wifi=up up=216s
+19:28:52.397 Rs=302.97k ppm=410 T=25.2 H=68 dT=-0.2 dH=0 slope=-14ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=450us actduty=0.00% wifi=up up=218s
+19:28:54.405 Rs=309.31k ppm=387 T=25.8 H=68 dT=0.3 dH=0 slope=-31ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=449us actduty=0.00% wifi=up up=220s
+19:28:56.255 Rs=293.96k ppm=445 T=25.9 H=68 dT=0.4 dH=0 slope=1ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=452us actduty=0.00% wifi=up up=221s
+19:28:58.304 Rs=299.74k ppm=422 T=25.3 H=68 dT=-0.2 dH=0 slope=-1ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=450us actduty=0.00% wifi=up up=223s
+19:29:00.350 Rs=298.59k ppm=426 T=25.2 H=68 dT=-0.3 dH=0 slope=5ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=450us actduty=0.00% wifi=up up=226s
+19:29:02.396 Rs=302.18k ppm=413 T=26.9 H=67 dT=1.4 dH=-1 slope=-0ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=452us actduty=0.00% wifi=up up=228s
+19:29:04.289 Rs=300.52k ppm=419 T=26.6 H=67 dT=1.1 dH=-1 slope=4ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=451us actduty=0.00% wifi=up up=229s
+19:29:06.297 Rs=298.01k ppm=429 T=26.5 H=67 dT=1.0 dH=-1 slope=8ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=450us actduty=0.00% wifi=up up=231s
+19:29:08.335 Rs=300.91k ppm=417 T=26.0 H=67 dT=0.5 dH=-1 slope=7ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=453us actduty=0.00% wifi=up up=234s
+19:29:10.377 Rs=302.28k ppm=412 T=26.3 H=67 dT=0.7 dH=-1 slope=-1ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=451us actduty=0.00% wifi=up up=236s
+19:29:12.423 Rs=297.35k ppm=431 T=26.4 H=67 dT=0.8 dH=-1 slope=8ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=452us actduty=0.00% wifi=up up=238s
+19:29:14.271 Rs=300.13k ppm=420 T=26.9 H=67 dT=1.3 dH=-1 slope=14ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=452us actduty=0.00% wifi=up up=239s
+19:29:16.318 Rs=298.01k ppm=429 T=26.8 H=67 dT=1.2 dH=-1 slope=22ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=450us actduty=0.00% wifi=up up=242s
+19:29:18.356 Rs=299.07k ppm=425 T=26.4 H=67 dT=0.8 dH=-1 slope=21ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=450us actduty=0.00% wifi=up up=244s
+19:29:20.610 Rs=296.97k ppm=433 T=26.7 H=67 dT=1.0 dH=-1 slope=34ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=452us actduty=0.00% wifi=up up=246s
+19:29:22.665 Rs=303.76k ppm=407 T=26.7 H=67 dT=1.0 dH=-1 slope=13ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=449us actduty=0.00% wifi=up up=248s
+19:29:24.324 Rs=297.54k ppm=431 T=26.5 H=67 dT=0.8 dH=-1 slope=-9ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=451us actduty=0.00% wifi=up up=250s
+19:29:26.361 Rs=295.08k ppm=441 T=26.2 H=67 dT=0.5 dH=-1 slope=22ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=452us actduty=0.00% wifi=up up=252s
+19:29:31.476 Rs=310.44k ppm=383 T=26.4 H=67 dT=0.6 dH=-1 slope=-10ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=447us actduty=0.00% wifi=up up=257s
+19:29:32.706 Rs=296.68k ppm=434 T=26.4 H=67 dT=0.6 dH=-1 slope=3ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=447us actduty=0.00% wifi=up up=258s
+19:29:34.339 Rs=298.11k ppm=428 T=26.7 H=67 dT=0.9 dH=-1 slope=4ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=450us actduty=0.00% wifi=up up=260s
+19:29:36.387 Rs=297.82k ppm=429 T=26.8 H=67 dT=1.0 dH=-1 slope=13ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=451us actduty=0.00% wifi=up up=262s
+19:29:38.473 Rs=299.07k ppm=425 T=26.4 H=67 dT=0.6 dH=-0 slope=9ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=452us actduty=0.00% wifi=up up=264s
+19:29:40.480 Rs=303.16k ppm=409 T=26.7 H=67 dT=0.9 dH=-0 slope=-12ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=452us actduty=0.00% wifi=up up=266s
+19:29:42.330 Rs=306.26k ppm=397 T=26.8 H=67 dT=1.0 dH=-0 slope=-25ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=449us actduty=0.00% wifi=up up=268s
+19:29:44.584 Rs=298.88k ppm=425 T=26.5 H=67 dT=0.6 dH=-0 slope=-23ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=452us actduty=0.00% wifi=up up=270s
+19:29:46.310 Rs=297.06k ppm=433 T=26.2 H=67 dT=0.3 dH=-0 slope=-8ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=451us actduty=0.00% wifi=up up=272s
+19:29:48.569 Rs=300.62k ppm=418 T=26.4 H=67 dT=0.5 dH=-0 slope=-9ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=451us actduty=0.00% wifi=up up=274s
+19:29:50.318 Rs=298.88k ppm=425 T=26.8 H=67 dT=0.9 dH=-0 slope=4ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=452us actduty=0.00% wifi=up up=276s
+19:29:52.365 Rs=295.17k ppm=440 T=26.6 H=67 dT=0.7 dH=-0 slope=6ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=451us actduty=0.00% wifi=up up=278s
+19:29:54.411 Rs=305.35k ppm=401 T=26.6 H=67 dT=0.7 dH=-0 slope=-4ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=451us actduty=0.00% wifi=up up=280s
+19:29:56.261 Rs=297.06k ppm=433 T=26.6 H=67 dT=0.7 dH=-0 slope=21ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=453us actduty=0.00% wifi=up up=281s
+19:29:58.303 Rs=299.16k ppm=424 T=26.6 H=67 dT=0.7 dH=-0 slope=-9ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=451us actduty=0.00% wifi=up up=283s
+19:30:00.219 Rs=295.64k ppm=438 T=26.6 H=67 dT=0.6 dH=-0 slope=7ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=452us actduty=0.00% wifi=up up=285s
+19:30:02.342 Rs=300.91k ppm=417 T=26.7 H=67 dT=0.7 dH=-0 slope=11ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=452us actduty=0.00% wifi=up up=288s
+19:30:04.292 Rs=300.91k ppm=417 T=26.8 H=67 dT=0.8 dH=-0 slope=11ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=451us actduty=0.00% wifi=up up=289s
+19:30:06.489 Rs=301.20k ppm=416 T=26.6 H=67 dT=0.6 dH=-0 slope=13ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=451us actduty=0.00% wifi=up up=292s
+19:30:08.337 Rs=302.37k ppm=412 T=26.8 H=67 dT=0.8 dH=-0 slope=9ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=452us actduty=0.00% wifi=up up=294s
+19:30:10.212 Rs=298.49k ppm=427 T=26.6 H=67 dT=0.6 dH=-0 slope=4ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=450us actduty=0.00% wifi=up up=295s
+19:30:13.666 Rs=297.92k ppm=429 T=26.6 H=67 dT=0.5 dH=-0 slope=-11ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=483us actduty=0.00% wifi=up up=299s
+19:30:14.894 Rs=306.56k ppm=396 T=26.6 H=67 dT=0.5 dH=-0 slope=-31ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=483us actduty=0.00% wifi=up up=300s
+19:30:16.328 Rs=298.88k ppm=425 T=26.6 H=67 dT=0.5 dH=-0 slope=-19ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=451us actduty=0.00% wifi=up up=302s
+19:30:18.388 Rs=307.27k ppm=394 T=26.6 H=67 dT=0.5 dH=-0 slope=-42ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=450us actduty=0.00% wifi=up up=304s
+19:30:20.539 Rs=305.85k ppm=399 T=26.0 H=67 dT=-0.1 dH=-0 slope=-53ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=454us actduty=0.00% wifi=up up=306s
+19:30:22.273 Rs=301.49k ppm=415 T=26.7 H=67 dT=0.6 dH=-0 slope=-36ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=451us actduty=0.00% wifi=up up=307s
+19:30:24.333 Rs=292.94k ppm=450 T=26.7 H=67 dT=0.6 dH=-0 slope=-24ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=451us actduty=0.00% wifi=up up=310s
+19:30:26.381 Rs=295.36k ppm=439 T=26.7 H=67 dT=0.6 dH=-0 slope=2ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=451us actduty=0.00% wifi=up up=312s
+19:30:28.209 Rs=300.91k ppm=417 T=26.7 H=67 dT=0.6 dH=-0 slope=4ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=450us actduty=0.00% wifi=up up=313s
+19:30:30.310 Rs=297.35k ppm=431 T=26.8 H=67 dT=0.7 dH=-0 slope=29ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=451us actduty=0.00% wifi=up up=316s
+19:30:32.509 Rs=305.25k ppm=401 T=26.5 H=67 dT=0.4 dH=-0 slope=14ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=452us actduty=0.00% wifi=up up=318s
+19:30:34.288 Rs=302.87k ppm=410 T=26.4 H=67 dT=0.3 dH=-0 slope=7ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=452us actduty=0.00% wifi=up up=319s
+19:30:36.397 Rs=300.62k ppm=418 T=26.0 H=67 dT=-0.1 dH=-0 slope=7ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=452us actduty=0.00% wifi=up up=322s
+19:30:38.448 Rs=296.97k ppm=433 T=26.9 H=67 dT=0.7 dH=-0 slope=13ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=452us actduty=0.00% wifi=up up=324s
+19:30:40.492 Rs=297.73k ppm=430 T=26.9 H=67 dT=0.7 dH=-0 slope=28ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=452us actduty=0.00% wifi=up up=326s
+19:30:42.384 Rs=299.26k ppm=424 T=26.9 H=67 dT=0.7 dH=-0 slope=40ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=452us actduty=0.00% wifi=up up=328s
+19:30:44.401 Rs=298.68k ppm=426 T=26.0 H=67 dT=-0.2 dH=-0 slope=26ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=452us actduty=0.00% wifi=up up=330s
+19:30:46.429 Rs=298.30k ppm=428 T=26.9 H=67 dT=0.7 dH=-0 slope=35ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=451us actduty=0.00% wifi=up up=332s
+19:30:48.479 Rs=299.55k ppm=423 T=26.9 H=67 dT=0.7 dH=-0 slope=13ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=451us actduty=0.00% wifi=up up=334s
+19:30:50.549 Rs=300.71k ppm=418 T=26.9 H=67 dT=0.7 dH=-0 slope=-12ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=454us actduty=0.00% wifi=up up=336s
+19:30:52.386 Rs=297.63k ppm=430 T=26.8 H=67 dT=0.6 dH=-0 slope=-15ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=451us actduty=0.00% wifi=up up=338s
+19:30:54.418 Rs=315.59k ppm=366 T=26.7 H=67 dT=0.5 dH=-0 slope=-39ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=450us actduty=0.00% wifi=up up=340s
+19:30:56.464 Rs=294.33k ppm=444 T=26.8 H=67 dT=0.5 dH=-0 slope=-4ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=451us actduty=0.00% wifi=up up=342s
+19:30:58.514 Rs=296.11k ppm=436 T=26.7 H=67 dT=0.4 dH=-0 slope=7ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=450us actduty=0.00% wifi=up up=344s
+19:31:09.765 [fb] write FAILED: response payload read timed out
+19:31:09.778 Rs=300.52k ppm=419 T=26.6 H=67 dT=0.3 dH=-0 slope=14ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=441us actduty=0.00% wifi=up up=355s
+19:32:00.161 Rs=301.10k ppm=417 T=26.8 H=67 dT=0.4 dH=-0 slope=3ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=457us actduty=0.00% wifi=up up=405s
+19:32:04.053 Rs=299.55k ppm=423 T=26.1 H=67 dT=-0.3 dH=-0 slope=-14ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=441us actduty=0.00% wifi=up up=409s
+19:32:05.277 Rs=305.65k ppm=400 T=26.0 H=67 dT=-0.4 dH=-0 slope=-53ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=444us actduty=0.00% wifi=up up=410s
+19:32:06.505 Rs=298.11k ppm=428 T=26.0 H=67 dT=-0.4 dH=-0 slope=-43ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=444us actduty=0.00% wifi=up up=412s
+19:32:08.355 Rs=300.62k ppm=418 T=26.9 H=67 dT=0.5 dH=-0 slope=-32ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=454us actduty=0.00% wifi=up up=414s
+19:32:10.398 Rs=307.88k ppm=392 T=26.2 H=67 dT=-0.2 dH=-0 slope=-49ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=450us actduty=0.00% wifi=up up=416s
+19:32:12.240 Rs=298.11k ppm=428 T=26.6 H=67 dT=0.2 dH=-0 slope=-38ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=450us actduty=0.00% wifi=up up=417s
+19:32:14.301 Rs=310.96k ppm=381 T=26.8 H=67 dT=0.4 dH=-0 slope=-40ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=452us actduty=0.00% wifi=up up=419s
+19:32:16.339 Rs=299.74k ppm=422 T=26.7 H=67 dT=0.3 dH=-0 slope=-25ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=450us actduty=0.00% wifi=up up=422s
+19:32:18.387 Rs=300.32k ppm=420 T=26.0 H=67 dT=-0.4 dH=-0 slope=-14ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=450us actduty=0.00% wifi=up up=424s
+19:32:20.640 Rs=303.26k ppm=408 T=26.9 H=67 dT=0.5 dH=-0 slope=-20ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=452us actduty=0.00% wifi=up up=426s
+19:32:22.722 Rs=298.49k ppm=427 T=26.2 H=67 dT=-0.2 dH=-0 slope=9ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=451us actduty=0.00% wifi=up up=428s
+19:32:24.553 Rs=295.08k ppm=441 T=26.7 H=67 dT=0.3 dH=-0 slope=12ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=452us actduty=0.00% wifi=up up=430s
+19:32:26.378 Rs=298.78k ppm=426 T=26.9 H=67 dT=0.5 dH=-0 slope=20ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=452us actduty=0.00% wifi=up up=432s
+19:32:31.496 Rs=298.78k ppm=426 T=26.1 H=67 dT=-0.3 dH=-0 slope=21ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=456us actduty=0.00% wifi=up up=437s
+19:32:32.727 Rs=297.63k ppm=430 T=26.9 H=67 dT=0.5 dH=-0 slope=51ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=456us actduty=0.00% wifi=up up=438s
+19:32:34.378 Rs=298.30k ppm=428 T=26.1 H=67 dT=-0.3 dH=-0 slope=42ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=462us actduty=0.00% wifi=up up=440s
+19:32:36.202 Rs=300.91k ppm=417 T=26.3 H=67 dT=-0.1 dH=-0 slope=47ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=462us actduty=0.00% wifi=up up=441s
+19:32:38.285 Rs=299.36k ppm=423 T=26.9 H=67 dT=0.5 dH=-0 slope=50ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=462us actduty=0.00% wifi=up up=443s
+19:32:40.712 Rs=297.82k ppm=429 T=26.2 H=67 dT=-0.2 dH=-0 slope=34ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=450us actduty=0.00% wifi=up up=446s
+19:32:42.601 Rs=296.59k ppm=434 T=26.7 H=67 dT=0.3 dH=-0 slope=49ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=463us actduty=0.00% wifi=up up=448s
+19:32:44.395 Rs=305.55k ppm=400 T=26.9 H=67 dT=0.5 dH=-0 slope=-4ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=453us actduty=0.00% wifi=up up=450s
+19:32:46.491 Rs=295.74k ppm=438 T=26.1 H=67 dT=-0.3 dH=-0 slope=6ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=452us actduty=0.00% wifi=up up=452s
+19:32:48.500 Rs=296.02k ppm=437 T=26.3 H=67 dT=-0.1 dH=-0 slope=10ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=451us actduty=0.00% wifi=up up=454s
+19:32:51.609 Rs=295.55k ppm=439 T=26.8 H=67 dT=0.4 dH=-0 slope=5ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=444us actduty=0.00% wifi=up up=457s
+19:32:53.045 Rs=296.59k ppm=434 T=26.6 H=67 dT=0.2 dH=-0 slope=9ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=444us actduty=0.00% wifi=up up=458s
+19:32:54.640 Rs=307.37k ppm=394 T=26.7 H=67 dT=0.3 dH=-0 slope=-7ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=451us actduty=0.00% wifi=up up=460s
+19:32:56.887 Rs=297.16k ppm=432 T=26.9 H=67 dT=0.5 dH=-0 slope=-1ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=452us actduty=0.00% wifi=up up=462s
+19:32:59.156 Rs=298.11k ppm=428 T=26.0 H=67 dT=-0.4 dH=-0 slope=1ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=443us actduty=0.00% wifi=up up=464s
+19:33:00.988 Rs=297.25k ppm=432 T=26.4 H=67 dT=-0.0 dH=-0 slope=3ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=443us actduty=0.00% wifi=up up=466s
+19:33:02.230 Rs=303.76k ppm=407 T=26.3 H=67 dT=-0.1 dH=-0 slope=-8ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=452us actduty=0.00% wifi=up up=467s
+19:33:04.226 Rs=297.25k ppm=432 T=26.0 H=67 dT=-0.4 dH=-0 slope=-1ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=451us actduty=0.00% wifi=up up=469s
+19:33:06.310 Rs=299.36k ppm=423 T=26.9 H=67 dT=0.5 dH=-0 slope=-9ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=450us actduty=0.00% wifi=up up=472s
+19:33:08.357 Rs=300.23k ppm=420 T=26.1 H=67 dT=-0.3 dH=-0 slope=-15ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=451us actduty=0.00% wifi=up up=474s
+19:33:10.411 Rs=298.30k ppm=428 T=26.4 H=67 dT=-0.0 dH=-0 slope=-9ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=451us actduty=0.00% wifi=up up=476s
+19:33:13.689 Rs=295.17k ppm=440 T=26.1 H=67 dT=-0.3 dH=-0 slope=10ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=460us actduty=0.00% wifi=up up=479s
+19:33:14.913 Rs=307.57k ppm=393 T=26.4 H=67 dT=-0.0 dH=-0 slope=-37ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=460us actduty=0.00% wifi=up up=480s
+19:33:16.352 Rs=299.55k ppm=423 T=26.3 H=67 dT=-0.1 dH=-0 slope=-27ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=450us actduty=0.00% wifi=up up=482s
+19:33:18.212 Rs=309.41k ppm=386 T=26.0 H=67 dT=-0.4 dH=-0 slope=-45ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=462us actduty=0.00% wifi=up up=483s
+19:33:20.236 Rs=298.11k ppm=428 T=26.1 H=67 dT=-0.3 dH=-0 slope=-24ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=453us actduty=0.00% wifi=up up=485s
+19:33:22.293 Rs=298.59k ppm=426 T=26.5 H=67 dT=0.1 dH=-0 slope=-6ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=450us actduty=0.00% wifi=up up=487s
+19:33:24.239 Rs=300.23k ppm=420 T=26.7 H=67 dT=0.3 dH=-0 slope=-28ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=450us actduty=0.00% wifi=up up=489s
+19:33:26.383 Rs=298.59k ppm=426 T=26.4 H=67 dT=-0.0 dH=-0 slope=-15ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=453us actduty=0.00% wifi=up up=492s
+19:33:35.396 Rs=301.30k ppm=416 T=26.2 H=67 dT=-0.2 dH=-0 slope=-12ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=443us actduty=0.00% wifi=up up=501s
+19:33:38.100 Rs=291.01k ppm=458 T=26.4 H=67 dT=0.0 dH=-0 slope=30ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=445us actduty=0.00% wifi=up up=503s
+19:33:39.307 Rs=302.97k ppm=410 T=26.1 H=67 dT=-0.3 dH=-0 slope=20ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=443us actduty=0.00% wifi=up up=505s
+19:33:40.538 Rs=310.54k ppm=382 T=26.8 H=67 dT=0.4 dH=-0 slope=-3ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=443us actduty=0.00% wifi=up up=506s
+19:33:42.217 Rs=297.82k ppm=429 T=26.1 H=67 dT=-0.3 dH=-0 slope=25ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=451us actduty=0.00% wifi=up up=507s
+19:33:44.412 Rs=296.30k ppm=436 T=26.9 H=67 dT=0.5 dH=-0 slope=18ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=453us actduty=0.00% wifi=up up=510s
+19:33:46.457 Rs=299.74k ppm=422 T=26.1 H=67 dT=-0.3 dH=-0 slope=22ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=450us actduty=0.00% wifi=up up=512s
+19:33:48.292 Rs=296.97k ppm=433 T=26.1 H=67 dT=-0.3 dH=-0 slope=3ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=449us actduty=0.00% wifi=up up=513s
+19:33:50.361 Rs=299.07k ppm=425 T=26.7 H=67 dT=0.3 dH=-0 slope=9ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=452us actduty=0.00% wifi=up up=516s
+19:33:52.398 Rs=304.65k ppm=403 T=26.3 H=67 dT=-0.1 dH=-0 slope=-3ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=450us actduty=0.00% wifi=up up=518s
+19:33:54.231 Rs=312.94k ppm=374 T=26.7 H=67 dT=0.3 dH=-0 slope=-39ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=450us actduty=0.00% wifi=up up=519s
+19:33:56.295 Rs=295.74k ppm=438 T=26.7 H=67 dT=0.3 dH=-0 slope=-17ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=454us actduty=0.00% wifi=up up=521s
+19:33:58.395 Rs=297.35k ppm=431 T=26.5 H=67 dT=0.1 dH=-0 slope=-10ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=450us actduty=0.00% wifi=up up=524s
+19:34:00.197 Rs=293.96k ppm=445 T=26.1 H=67 dT=-0.3 dH=-0 slope=3ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=450us actduty=0.00% wifi=up up=525s
+19:34:02.254 Rs=293.22k ppm=448 T=26.1 H=67 dT=-0.3 dH=-0 slope=19ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=453us actduty=0.00% wifi=up up=527s
+19:34:04.300 Rs=293.49k ppm=447 T=26.3 H=67 dT=-0.1 dH=-0 slope=39ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=451us actduty=0.00% wifi=up up=530s
+19:34:06.319 Rs=291.65k ppm=455 T=26.4 H=67 dT=0.0 dH=-0 slope=89ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=462us actduty=0.00% wifi=up up=532s
+19:34:08.394 Rs=298.97k ppm=425 T=26.8 H=67 dT=0.4 dH=-0 slope=75ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=463us actduty=0.00% wifi=up up=534s
+19:34:10.251 Rs=298.01k ppm=429 T=26.4 H=67 dT=-0.0 dH=-0 slope=39ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=451us actduty=0.00% wifi=up up=535s
+19:34:12.271 Rs=297.35k ppm=431 T=26.4 H=67 dT=-0.0 dH=-0 slope=41ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=461us actduty=0.00% wifi=up up=537s
+19:34:14.305 Rs=294.05k ppm=445 T=26.4 H=67 dT=-0.0 dH=-0 slope=58ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=463us actduty=0.00% wifi=up up=540s
+19:34:16.355 Rs=291.01k ppm=458 T=26.4 H=67 dT=-0.0 dH=-0 slope=71ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=461us actduty=0.00% wifi=up up=542s
+19:34:18.409 Rs=290.74k ppm=459 T=26.4 H=67 dT=-0.0 dH=-0 slope=91ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=460us actduty=0.00% wifi=up up=544s
+19:34:20.449 Rs=292.75k ppm=450 T=26.4 H=67 dT=-0.0 dH=-0 slope=95ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=463us actduty=0.00% wifi=up up=546s
+19:34:22.288 Rs=291.56k ppm=455 T=26.4 H=67 dT=-0.0 dH=-0 slope=82ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=460us actduty=0.00% wifi=up up=547s
+19:34:24.786 Rs=293.49k ppm=447 T=26.6 H=67 dT=0.2 dH=-0 slope=32ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=450us actduty=0.00% wifi=up up=550s
+19:34:27.423 Rs=304.65k ppm=403 T=26.1 H=67 dT=-0.3 dH=-0 slope=-5ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=444us actduty=0.00% wifi=up up=553s
+19:34:28.842 Rs=292.11k ppm=453 T=26.5 H=67 dT=0.1 dH=-0 slope=-5ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=444us actduty=0.00% wifi=up up=554s
+19:34:30.295 Rs=292.94k ppm=450 T=26.3 H=67 dT=-0.1 dH=-0 slope=1ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=450us actduty=0.00% wifi=up up=555s
+19:34:32.331 Rs=292.20k ppm=453 T=26.3 H=67 dT=-0.1 dH=-0 slope=11ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=453us actduty=0.00% wifi=up up=558s
+19:34:34.220 Rs=289.01k ppm=467 T=26.3 H=67 dT=-0.1 dH=-0 slope=31ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=451us actduty=0.00% wifi=up up=559s
+19:34:36.223 Rs=291.83k ppm=454 T=26.3 H=67 dT=-0.1 dH=-0 slope=46ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=460us actduty=0.00% wifi=up up=561s
+19:34:38.268 Rs=293.40k ppm=448 T=26.3 H=67 dT=-0.1 dH=-0 slope=30ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=452us actduty=0.00% wifi=up up=563s
+19:34:40.313 Rs=298.01k ppm=429 T=26.6 H=67 dT=0.2 dH=-0 slope=1ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=450us actduty=0.00% wifi=up up=566s
+19:34:42.366 Rs=292.66k ppm=451 T=26.9 H=67 dT=0.5 dH=-0 slope=-9ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=450us actduty=0.00% wifi=up up=568s
+19:34:44.409 Rs=294.80k ppm=442 T=26.5 H=67 dT=0.1 dH=-0 slope=-17ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=452us actduty=0.00% wifi=up up=570s
+19:34:46.279 Rs=293.49k ppm=447 T=26.2 H=67 dT=-0.2 dH=-0 slope=-9ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=450us actduty=0.00% wifi=up up=571s
+19:34:48.303 Rs=297.44k ppm=431 T=26.9 H=67 dT=0.5 dH=-0 slope=-11ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=450us actduty=0.00% wifi=up up=574s
+19:34:50.984 Rs=298.11k ppm=428 T=26.5 H=67 dT=0.1 dH=-0 slope=-19ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=453us actduty=0.00% wifi=up up=576s
+19:34:52.241 Rs=301.79k ppm=414 T=26.2 H=67 dT=-0.2 dH=-0 slope=-31ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=450us actduty=0.00% wifi=up up=577s
+19:34:54.272 Rs=304.45k ppm=404 T=26.3 H=67 dT=-0.1 dH=-0 slope=-54ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=451us actduty=0.00% wifi=up up=579s
+19:34:56.291 Rs=298.40k ppm=427 T=26.1 H=67 dT=-0.3 dH=-0 slope=-92ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=452us actduty=0.00% wifi=up up=581s
+19:34:58.257 Rs=293.96k ppm=445 T=26.7 H=67 dT=0.3 dH=-0 slope=-77ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=450us actduty=0.00% wifi=up up=583s
+19:35:00.400 Rs=299.16k ppm=424 T=26.3 H=67 dT=-0.1 dH=-0 slope=-79ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=452us actduty=0.00% wifi=up up=586s
+19:35:02.841 Rs=300.91k ppm=417 T=26.6 H=67 dT=0.2 dH=-0 slope=-81ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=453us actduty=0.00% wifi=up up=588s
+19:35:04.478 Rs=303.06k ppm=409 T=26.0 H=67 dT=-0.4 dH=-0 slope=-74ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=451us actduty=0.00% wifi=up up=590s
+19:35:06.210 Rs=296.21k ppm=436 T=26.5 H=67 dT=0.1 dH=-0 slope=-51ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=451us actduty=0.00% wifi=up up=591s
+19:35:08.219 Rs=298.01k ppm=429 T=26.1 H=67 dT=-0.3 dH=-0 slope=-37ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=453us actduty=0.00% wifi=up up=593s
+19:35:10.213 Rs=297.73k ppm=430 T=26.7 H=67 dT=0.3 dH=-0 slope=-36ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=450us actduty=0.00% wifi=up up=595s
+19:35:12.284 Rs=296.40k ppm=435 T=26.8 H=67 dT=0.4 dH=-0 slope=-13ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=451us actduty=0.00% wifi=up up=597s
+19:35:14.295 Rs=299.65k ppm=422 T=26.2 H=67 dT=-0.2 dH=-0 slope=-5ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=452us actduty=0.00% wifi=up up=599s
+19:35:16.368 Rs=295.55k ppm=439 T=26.6 H=67 dT=0.2 dH=-0 slope=21ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=449us actduty=0.00% wifi=up up=602s
+19:35:18.415 Rs=296.78k ppm=434 T=26.2 H=67 dT=-0.2 dH=-0 slope=31ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=450us actduty=0.00% wifi=up up=604s
+19:35:20.250 Rs=294.42k ppm=443 T=26.2 H=67 dT=-0.2 dH=-0 slope=46ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=464us actduty=0.00% wifi=up up=605s
+19:35:22.300 Rs=295.74k ppm=438 T=26.5 H=67 dT=0.1 dH=-0 slope=42ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=462us actduty=0.00% wifi=up up=608s
+19:35:24.368 Rs=297.06k ppm=433 T=26.7 H=67 dT=0.3 dH=-0 slope=24ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=451us actduty=0.00% wifi=up up=610s
+19:35:26.290 Rs=305.45k ppm=400 T=26.1 H=67 dT=-0.3 dH=-0 slope=-2ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=452us actduty=0.00% wifi=up up=611s
+19:35:28.239 Rs=294.24k ppm=444 T=26.4 H=67 dT=-0.0 dH=-0 slope=23ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=450us actduty=0.00% wifi=up up=613s
+19:35:30.227 Rs=298.11k ppm=428 T=26.4 H=67 dT=-0.0 dH=-0 slope=19ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=451us actduty=0.00% wifi=up up=615s
+19:35:32.363 Rs=296.49k ppm=435 T=26.4 H=67 dT=-0.0 dH=-0 slope=13ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=453us actduty=0.00% wifi=up up=618s
+19:35:35.418 Rs=306.86k ppm=395 T=26.4 H=67 dT=-0.0 dH=-0 slope=-31ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=443us actduty=0.00% wifi=up up=621s
+19:35:36.721 Rs=308.49k ppm=390 T=26.4 H=67 dT=-0.0 dH=-0 slope=-56ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=443us actduty=0.00% wifi=up up=622s
+19:35:38.277 Rs=295.64k ppm=438 T=26.3 H=67 dT=-0.1 dH=-0 slope=-45ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=453us actduty=0.00% wifi=up up=623s
+19:35:40.221 Rs=296.97k ppm=433 T=26.3 H=67 dT=-0.1 dH=-0 slope=-38ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=450us actduty=0.00% wifi=up up=625s
+19:35:42.371 Rs=295.83k ppm=438 T=26.8 H=67 dT=0.4 dH=-0 slope=-23ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=451us actduty=0.00% wifi=up up=628s
+19:35:44.208 Rs=296.68k ppm=434 T=26.9 H=67 dT=0.5 dH=-0 slope=-22ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=454us actduty=0.00% wifi=up up=629s
+19:35:46.277 Rs=296.21k ppm=436 T=26.4 H=67 dT=-0.0 dH=-0 slope=-7ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=451us actduty=0.00% wifi=up up=631s
+19:35:48.300 Rs=296.78k ppm=434 T=26.5 H=67 dT=0.1 dH=-0 slope=2ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=450us actduty=0.00% wifi=up up=634s
+19:35:50.358 Rs=298.68k ppm=426 T=26.9 H=67 dT=0.5 dH=-0 slope=14ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=452us actduty=0.00% wifi=up up=636s
+19:35:52.812 Rs=301.49k ppm=415 T=26.7 H=67 dT=0.3 dH=-0 slope=15ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=451us actduty=0.00% wifi=up up=638s
+19:35:54.242 Rs=311.69k ppm=379 T=26.5 H=67 dT=0.1 dH=-0 slope=-14ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=452us actduty=0.00% wifi=up up=639s
+19:35:56.296 Rs=300.91k ppm=417 T=26.0 H=67 dT=-0.4 dH=-0 slope=-36ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=453us actduty=0.00% wifi=up up=642s
+19:35:58.361 Rs=294.05k ppm=445 T=26.3 H=67 dT=-0.1 dH=-0 slope=-1ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=450us actduty=0.00% wifi=up up=644s
+19:36:00.386 Rs=305.65k ppm=400 T=26.5 H=67 dT=0.1 dH=-0 slope=-13ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=450us actduty=0.00% wifi=up up=646s
+19:36:02.206 Rs=305.35k ppm=401 T=26.8 H=67 dT=0.4 dH=-0 slope=-17ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=452us actduty=0.00% wifi=up up=647s
+19:36:04.463 Rs=302.28k ppm=412 T=26.2 H=67 dT=-0.2 dH=-0 slope=-41ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=450us actduty=0.00% wifi=up up=650s
+19:36:06.323 Rs=303.06k ppm=409 T=26.6 H=67 dT=0.2 dH=-0 slope=-75ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=451us actduty=0.00% wifi=up up=652s
+19:36:08.194 Rs=298.68k ppm=426 T=26.4 H=67 dT=-0.0 dH=-0 slope=-57ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=452us actduty=0.00% wifi=up up=653s
+19:36:10.227 Rs=300.81k ppm=418 T=26.6 H=67 dT=0.2 dH=-0 slope=-48ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=451us actduty=0.00% wifi=up up=655s
+19:36:12.266 Rs=300.81k ppm=418 T=26.4 H=67 dT=-0.0 dH=-0 slope=-33ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=452us actduty=0.00% wifi=up up=657s
+19:36:15.587 Rs=301.40k ppm=416 T=26.6 H=67 dT=0.2 dH=-0 slope=-21ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=447us actduty=0.00% wifi=up up=661s
+19:36:16.975 Rs=308.39k ppm=390 T=26.4 H=67 dT=-0.0 dH=-0 slope=-25ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=447us actduty=0.00% wifi=up up=662s
+19:36:18.421 Rs=303.06k ppm=409 T=26.6 H=67 dT=0.2 dH=-0 slope=-11ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=451us actduty=0.00% wifi=up up=664s
+19:36:20.259 Rs=302.18k ppm=413 T=26.4 H=67 dT=-0.0 dH=-0 slope=1ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=452us actduty=0.00% wifi=up up=665s
+19:36:22.303 Rs=298.59k ppm=426 T=26.6 H=67 dT=0.2 dH=-0 slope=16ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=450us actduty=0.00% wifi=up up=668s
+19:36:24.351 Rs=299.36k ppm=423 T=26.6 H=67 dT=0.2 dH=-0 slope=-4ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=449us actduty=0.00% wifi=up up=670s
+19:36:26.206 Rs=297.82k ppm=429 T=26.3 H=67 dT=-0.1 dH=-0 slope=10ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=453us actduty=0.00% wifi=up up=671s
+19:36:28.242 Rs=299.36k ppm=423 T=26.5 H=67 dT=0.1 dH=-0 slope=40ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=460us actduty=0.00% wifi=up up=673s
+19:36:30.307 Rs=300.42k ppm=419 T=26.8 H=67 dT=0.3 dH=-0 slope=32ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=452us actduty=0.00% wifi=up up=676s
+19:36:32.333 Rs=299.74k ppm=422 T=26.1 H=67 dT=-0.3 dH=-0 slope=24ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=452us actduty=0.00% wifi=up up=678s
+19:36:34.385 Rs=312.63k ppm=375 T=26.7 H=67 dT=0.3 dH=-0 slope=-11ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=449us actduty=0.00% wifi=up up=680s
+19:36:36.259 Rs=299.07k ppm=425 T=26.3 H=67 dT=-0.1 dH=-0 slope=-8ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=451us actduty=0.00% wifi=up up=681s
+19:36:38.350 Rs=297.92k ppm=429 T=26.5 H=67 dT=0.1 dH=-0 slope=11ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=453us actduty=0.00% wifi=up up=684s
+19:36:40.326 Rs=300.52k ppm=419 T=26.8 H=67 dT=0.3 dH=-0 slope=15ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=450us actduty=0.00% wifi=up up=686s
+19:36:42.376 Rs=295.64k ppm=438 T=26.3 H=67 dT=-0.2 dH=-0 slope=34ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=451us actduty=0.00% wifi=up up=688s
+19:36:44.232 Rs=298.30k ppm=428 T=26.2 H=67 dT=-0.2 dH=-0 slope=40ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=464us actduty=0.00% wifi=up up=689s
+19:36:46.487 Rs=303.56k ppm=407 T=26.8 H=67 dT=0.3 dH=-0 slope=8ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=451us actduty=0.00% wifi=up up=692s
+19:36:48.518 Rs=299.55k ppm=423 T=26.7 H=67 dT=0.2 dH=-0 slope=2ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=450us actduty=0.00% wifi=up up=694s
+19:36:50.601 Rs=296.21k ppm=436 T=26.0 H=67 dT=-0.4 dH=-0 slope=8ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=452us actduty=0.00% wifi=up up=696s
+19:36:52.490 Rs=301.88k ppm=414 T=26.8 H=67 dT=0.3 dH=-0 slope=6ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=450us actduty=0.00% wifi=up up=698s
+19:36:55.693 Rs=316.02k ppm=364 T=26.1 H=67 dT=-0.4 dH=-0 slope=-34ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=444us actduty=0.00% wifi=up up=701s
+19:36:57.979 Rs=310.75k ppm=382 T=26.9 H=67 dT=0.4 dH=-0 slope=-49ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=443us actduty=0.00% wifi=up up=703s
+19:36:59.167 Rs=300.13k ppm=420 T=26.7 H=67 dT=0.2 dH=-0 slope=-36ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=444us actduty=0.00% wifi=up up=704s
+19:37:00.416 Rs=298.78k ppm=426 T=26.5 H=67 dT=0.0 dH=-0 slope=-22ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=444us actduty=0.00% wifi=up up=706s
+19:37:02.448 Rs=306.26k ppm=397 T=26.8 H=67 dT=0.3 dH=-0 slope=-27ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=451us actduty=0.00% wifi=up up=708s
+19:37:04.492 Rs=298.20k ppm=428 T=26.1 H=67 dT=-0.4 dH=-0 slope=-47ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=450us actduty=0.00% wifi=up up=710s
+19:37:06.353 Rs=298.88k ppm=425 T=26.7 H=67 dT=0.2 dH=-0 slope=-32ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=450us actduty=0.00% wifi=up up=712s
+19:37:08.388 Rs=306.86k ppm=395 T=26.3 H=67 dT=-0.2 dH=-0 slope=-36ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=473us actduty=0.00% wifi=up up=714s
+19:37:10.279 Rs=300.71k ppm=418 T=26.5 H=67 dT=0.0 dH=-0 slope=-28ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=475us actduty=0.00% wifi=up up=715s
+19:37:12.675 Rs=300.81k ppm=418 T=26.8 H=67 dT=0.3 dH=-0 slope=-3ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=474us actduty=0.00% wifi=up up=718s
+19:37:14.330 Rs=300.13k ppm=420 T=26.2 H=67 dT=-0.3 dH=-0 slope=16ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=465us actduty=0.00% wifi=up up=720s
+19:37:16.367 Rs=302.37k ppm=412 T=26.0 H=67 dT=-0.5 dH=-0 slope=13ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=474us actduty=0.00% wifi=up up=722s
+19:37:18.482 Rs=296.49k ppm=435 T=26.3 H=67 dT=-0.2 dH=-0 slope=39ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=451us actduty=0.00% wifi=up up=724s
+19:37:20.261 Rs=300.52k ppm=419 T=26.1 H=67 dT=-0.3 dH=-0 slope=64ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=463us actduty=0.00% wifi=up up=725s
+19:37:22.306 Rs=297.54k ppm=431 T=26.8 H=67 dT=0.3 dH=-0 slope=80ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=462us actduty=0.00% wifi=up up=728s
+19:37:24.291 Rs=300.62k ppm=418 T=26.9 H=67 dT=0.4 dH=-0 slope=43ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=462us actduty=0.00% wifi=up up=730s
+19:37:26.399 Rs=302.77k ppm=410 T=26.3 H=67 dT=-0.2 dH=-0 slope=9ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=453us actduty=0.00% wifi=up up=732s
+19:37:28.267 Rs=302.28k ppm=412 T=26.5 H=67 dT=0.0 dH=-0 slope=6ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=450us actduty=0.00% wifi=up up=733s
+19:37:30.225 Rs=298.49k ppm=427 T=26.2 H=67 dT=-0.3 dH=-0 slope=20ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=450us actduty=0.00% wifi=up up=735s
+19:37:32.357 Rs=298.40k ppm=427 T=26.2 H=67 dT=-0.2 dH=-0 slope=9ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=452us actduty=0.00% wifi=up up=738s
+19:37:34.390 Rs=300.81k ppm=418 T=26.8 H=67 dT=0.3 dH=-0 slope=15ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=452us actduty=0.00% wifi=up up=740s
+19:37:36.441 Rs=300.13k ppm=420 T=26.4 H=67 dT=-0.1 dH=-0 slope=21ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=450us actduty=0.00% wifi=up up=742s
+19:37:38.945 Rs=304.45k ppm=404 T=26.2 H=67 dT=-0.3 dH=-0 slope=-10ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=453us actduty=0.00% wifi=up up=744s
+19:37:43.004 Rs=299.84k ppm=421 T=26.4 H=67 dT=-0.0 dH=-0 slope=-9ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=444us actduty=0.00% wifi=up up=748s
+19:37:44.257 Rs=303.96k ppm=406 T=26.2 H=67 dT=-0.2 dH=-0 slope=-21ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=446us actduty=0.00% wifi=up up=749s
+19:37:45.450 Rs=296.02k ppm=437 T=26.7 H=67 dT=0.2 dH=-0 slope=-6ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=443us actduty=0.00% wifi=up up=751s
+19:37:47.085 Rs=309.00k ppm=388 T=26.5 H=67 dT=0.1 dH=-0 slope=-37ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=444us actduty=0.00% wifi=up up=752s
+19:37:48.952 Rs=298.20k ppm=428 T=26.4 H=67 dT=-0.0 dH=-0 slope=-15ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=444us actduty=0.00% wifi=up up=754s
+19:37:50.558 Rs=296.30k ppm=436 T=26.4 H=67 dT=-0.0 dH=-0 slope=-1ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=453us actduty=0.00% wifi=up up=756s
+19:37:52.647 Rs=299.36k ppm=423 T=26.3 H=67 dT=-0.1 dH=-0 slope=12ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=450us actduty=0.00% wifi=up up=758s
+19:37:54.374 Rs=308.28k ppm=390 T=26.3 H=67 dT=-0.1 dH=-0 slope=-9ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=451us actduty=0.00% wifi=up up=760s
+19:37:56.325 Rs=303.26k ppm=408 T=26.3 H=67 dT=-0.1 dH=-0 slope=-20ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=452us actduty=0.00% wifi=up up=762s
+19:37:58.347 Rs=300.03k ppm=421 T=26.5 H=67 dT=0.1 dH=-0 slope=-20ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=449us actduty=0.00% wifi=up up=764s
+19:38:00.402 Rs=299.55k ppm=423 T=26.5 H=67 dT=0.1 dH=-0 slope=-8ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=451us actduty=0.00% wifi=up up=766s
+19:38:02.457 Rs=301.49k ppm=415 T=26.3 H=67 dT=-0.1 dH=-0 slope=0ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=453us actduty=0.00% wifi=up up=768s
+19:38:04.494 Rs=300.71k ppm=418 T=26.5 H=67 dT=0.1 dH=-0 slope=3ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=452us actduty=0.00% wifi=up up=770s
+19:38:07.089 Rs=299.84k ppm=421 T=26.8 H=67 dT=0.4 dH=-0 slope=11ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=446us actduty=0.00% wifi=up up=772s
+19:38:08.490 Rs=295.45k ppm=439 T=26.3 H=67 dT=-0.1 dH=-0 slope=18ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=446us actduty=0.00% wifi=up up=774s
+19:38:10.984 Rs=300.81k ppm=418 T=26.8 H=67 dT=0.3 dH=-0 slope=21ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=450us actduty=0.00% wifi=up up=776s
+19:38:13.445 Rs=299.26k ppm=424 T=26.1 H=67 dT=-0.3 dH=-0 slope=15ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=446us actduty=0.00% wifi=up up=779s
+19:38:24.284 Rs=303.36k ppm=408 T=26.6 H=67 dT=0.2 dH=-0 slope=21ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=444us actduty=0.00% wifi=up up=789s
+19:38:25.777 Rs=300.32k ppm=420 T=26.3 H=67 dT=-0.1 dH=-0 slope=1ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=445us actduty=0.00% wifi=up up=791s
+19:38:27.538 Rs=307.06k ppm=395 T=26.3 H=67 dT=-0.1 dH=-0 slope=-27ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=444us actduty=0.00% wifi=up up=793s
+19:38:29.198 Rs=317.52k ppm=360 T=26.2 H=67 dT=-0.2 dH=-0 slope=-69ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=444us actduty=0.00% wifi=up up=794s
+19:38:30.926 Rs=298.11k ppm=428 T=26.2 H=67 dT=-0.2 dH=-0 slope=-51ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=444us actduty=0.00% wifi=up up=796s
+19:38:32.850 Rs=299.94k ppm=421 T=26.5 H=67 dT=0.1 dH=-0 slope=-46ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=452us actduty=0.00% wifi=up up=798s
+19:38:34.504 Rs=299.45k ppm=423 T=26.0 H=67 dT=-0.4 dH=-0 slope=-38ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=450us actduty=0.00% wifi=up up=800s
+19:38:37.776 Rs=299.74k ppm=422 T=26.9 H=67 dT=0.5 dH=-0 slope=-28ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=446us actduty=0.00% wifi=up up=803s
+19:38:39.483 Rs=299.55k ppm=423 T=26.6 H=67 dT=0.2 dH=-0 slope=-2ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=445us actduty=0.00% wifi=up up=805s
+19:38:41.256 Rs=296.68k ppm=434 T=26.6 H=67 dT=0.2 dH=-0 slope=16ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=444us actduty=0.00% wifi=up up=806s
+19:38:43.202 Rs=300.42k ppm=419 T=26.3 H=67 dT=-0.1 dH=-0 slope=26ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=446us actduty=0.00% wifi=up up=808s
+19:38:44.566 Rs=299.07k ppm=425 T=26.4 H=67 dT=-0.0 dH=-0 slope=27ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=446us actduty=0.00% wifi=up up=810s
+19:38:46.395 Rs=304.95k ppm=402 T=26.5 H=67 dT=0.1 dH=-0 slope=16ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=452us actduty=0.00% wifi=up up=812s
+19:38:48.459 Rs=301.79k ppm=414 T=26.9 H=67 dT=0.5 dH=-0 slope=25ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=450us actduty=0.00% wifi=up up=814s
+19:38:50.722 Rs=299.84k ppm=421 T=26.5 H=67 dT=0.1 dH=-0 slope=37ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=452us actduty=0.00% wifi=up up=816s
+19:38:52.326 Rs=298.20k ppm=428 T=26.8 H=67 dT=0.4 dH=-0 slope=43ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=462us actduty=0.00% wifi=up up=818s
+19:38:54.571 Rs=310.03k ppm=384 T=26.2 H=67 dT=-0.2 dH=-0 slope=23ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=452us actduty=0.00% wifi=up up=820s
+19:38:56.607 Rs=298.88k ppm=425 T=26.1 H=67 dT=-0.3 dH=-0 slope=16ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=453us actduty=0.00% wifi=up up=822s
+19:38:59.111 Rs=297.44k ppm=431 T=26.8 H=67 dT=0.4 dH=-0 slope=-20ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=443us actduty=0.00% wifi=up up=824s
+19:39:00.761 Rs=297.63k ppm=430 T=26.4 H=67 dT=-0.0 dH=-0 slope=-5ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=443us actduty=0.00% wifi=up up=826s
+19:39:08.289 Rs=298.11k ppm=428 T=26.8 H=67 dT=0.3 dH=-0 slope=2ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=444us actduty=0.00% wifi=up up=834s
+19:39:10.172 Rs=298.68k ppm=426 T=26.8 H=67 dT=0.3 dH=-0 slope=7ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=444us actduty=0.00% wifi=up up=835s
+19:39:12.643 Rs=304.75k ppm=403 T=26.7 H=67 dT=0.2 dH=-0 slope=6ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=445us actduty=0.00% wifi=up up=838s
+19:39:20.992 Rs=303.16k ppm=409 T=26.3 H=67 dT=-0.2 dH=-0 slope=0ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=472us actduty=0.00% wifi=up up=846s
+19:39:27.579 Rs=307.88k ppm=392 T=26.4 H=67 dT=-0.1 dH=-0 slope=-11ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=442us actduty=0.00% wifi=up up=853s
+19:39:29.575 Rs=313.36k ppm=373 T=26.8 H=67 dT=0.3 dH=-0 slope=-57ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=443us actduty=0.00% wifi=up up=855s
+19:39:33.890 Rs=302.67k ppm=411 T=26.3 H=67 dT=-0.2 dH=-0 slope=-48ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=442us actduty=0.00% wifi=up up=859s
+19:39:36.168 Rs=300.13k ppm=420 T=26.5 H=67 dT=0.0 dH=-0 slope=-36ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=458us actduty=0.00% wifi=up up=861s
+19:39:38.207 Rs=306.86k ppm=395 T=26.1 H=67 dT=-0.4 dH=-0 slope=-40ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=446us actduty=0.00% wifi=up up=863s
+19:39:43.509 Rs=308.69k ppm=389 T=26.4 H=67 dT=-0.1 dH=-0 slope=-46ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=446us actduty=0.00% wifi=up up=869s
+19:39:45.992 Rs=296.87k ppm=433 T=26.4 H=67 dT=-0.1 dH=-0 slope=11ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=444us actduty=0.00% wifi=up up=871s
+19:39:56.694 [fb] write FAILED: response payload read timed out
+19:39:56.708 Rs=297.92k ppm=429 T=26.0 H=67 dT=-0.4 dH=-0 slope=38ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=457us actduty=0.00% wifi=up up=882s
+19:40:15.582 [fb] write FAILED: response payload read timed out
+19:40:15.590 Rs=299.94k ppm=421 T=26.5 H=67 dT=0.0 dH=-0 slope=50ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=443us actduty=0.00% wifi=up up=901s
+19:40:41.621 Rs=299.74k ppm=422 T=26.5 H=67 dT=0.0 dH=-0 slope=1ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=444us actduty=0.00% wifi=up up=927s
+19:40:43.646 Rs=312.73k ppm=375 T=26.8 H=67 dT=0.3 dH=-0 slope=-47ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=447us actduty=0.00% wifi=up up=929s
+19:40:54.346 [fb] write FAILED: response payload read timed out
+19:40:54.362 Rs=299.26k ppm=424 T=26.8 H=67 dT=0.3 dH=-0 slope=-28ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=443us actduty=0.00% wifi=up up=940s
+19:41:02.805 Rs=304.35k ppm=404 T=26.2 H=67 dT=-0.3 dH=-0 slope=-17ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=485us actduty=0.00% wifi=up up=948s
+19:41:04.152 Rs=297.16k ppm=432 T=26.4 H=67 dT=-0.1 dH=-0 slope=-22ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=444us actduty=0.00% wifi=up up=949s
+19:41:05.376 Rs=295.83k ppm=438 T=26.5 H=67 dT=0.0 dH=-0 slope=9ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=443us actduty=0.00% wifi=up up=951s
+19:41:06.776 Rs=312.84k ppm=375 T=26.2 H=67 dT=-0.3 dH=-0 slope=-13ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=443us actduty=0.00% wifi=up up=952s
+19:41:08.433 Rs=303.86k ppm=406 T=26.5 H=67 dT=0.0 dH=-0 slope=-7ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=453us actduty=0.00% wifi=up up=954s
+19:41:11.694 Rs=296.97k ppm=433 T=26.0 H=67 dT=-0.5 dH=-0 slope=18ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=443us actduty=0.00% wifi=up up=957s
+19:41:13.533 Rs=301.49k ppm=415 T=26.5 H=67 dT=0.0 dH=-0 slope=-13ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=446us actduty=0.00% wifi=up up=959s
+19:41:24.236 [fb] write FAILED: response payload read timed out
+19:41:24.248 Rs=304.55k ppm=404 T=26.6 H=67 dT=0.2 dH=-0 slope=-15ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=454us actduty=0.00% wifi=up up=969s
+19:41:49.963 [fb] write FAILED: response payload read timed out
+19:41:49.974 Rs=298.59k ppm=426 T=26.3 H=67 dT=-0.2 dH=-0 slope=60ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=444us actduty=0.00% wifi=up up=995s
+19:42:08.764 > ERROR.mUpdateEngine: Error writing to basic client.
+19:42:08.768 > WARN.mRunUntil: Terminating with write error.
+19:42:08.777 > ERROR.mConnectSSL: Failed to initlalize the SSL layer.
+19:42:08.781 > ERROR.mConnectSSL: Unknown error code.
+19:42:08.782 [fb] write FAILED: connection refused
+19:42:08.794 Rs=294.33k ppm=444 T=26.4 H=67 dT=-0.1 dH=-0 slope=9ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=444us actduty=0.00% wifi=up up=1014s
+19:42:22.010 Rs=289.83k ppm=463 T=26.8 H=67 dT=0.3 dH=-0 slope=25ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=443us actduty=0.00% wifi=up up=1027s
+19:42:52.648 Rs=297.16k ppm=432 T=26.4 H=67 dT=-0.1 dH=-0 slope=36ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=456us actduty=0.00% wifi=up up=1058s
+19:42:54.296 Rs=295.74k ppm=438 T=26.5 H=67 dT=0.0 dH=-0 slope=-27ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=443us actduty=0.00% wifi=up up=1060s
+19:42:58.813 Rs=298.59k ppm=426 T=26.6 H=67 dT=0.1 dH=-0 slope=-26ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=443us actduty=0.00% wifi=up up=1064s
+19:43:00.229 Rs=298.49k ppm=427 T=26.6 H=67 dT=0.1 dH=-0 slope=-31ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=444us actduty=0.00% wifi=up up=1065s
+19:43:01.510 Rs=297.06k ppm=433 T=26.2 H=67 dT=-0.3 dH=-0 slope=-24ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=446us actduty=0.00% wifi=up up=1067s
+19:43:03.095 Rs=305.25k ppm=401 T=26.1 H=67 dT=-0.4 dH=-0 slope=-29ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=444us actduty=0.00% wifi=up up=1068s
+19:43:05.186 Rs=297.25k ppm=432 T=26.0 H=67 dT=-0.5 dH=-0 slope=-16ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=448us actduty=0.00% wifi=up up=1070s
+19:43:07.257 Rs=298.20k ppm=428 T=26.4 H=67 dT=-0.1 dH=-0 slope=-21ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=447us actduty=0.00% wifi=up up=1072s
+19:43:08.841 Rs=297.82k ppm=429 T=26.8 H=67 dT=0.3 dH=-0 slope=-20ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=447us actduty=0.00% wifi=up up=1074s
+19:43:10.464 Rs=297.44k ppm=431 T=26.5 H=67 dT=0.0 dH=-0 slope=-6ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=450us actduty=0.00% wifi=up up=1076s
+19:43:14.980 Rs=299.07k ppm=425 T=26.8 H=67 dT=0.3 dH=0 slope=-4ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=446us actduty=0.00% wifi=up up=1080s
+19:43:17.647 Rs=297.25k ppm=432 T=26.3 H=66 dT=-0.2 dH=-1 slope=6ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=456us actduty=0.00% wifi=up up=1083s
+19:43:18.872 Rs=298.01k ppm=429 T=26.4 H=66 dT=-0.1 dH=-1 slope=6ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=456us actduty=0.00% wifi=up up=1084s
+19:43:20.311 Rs=294.33k ppm=444 T=26.4 H=66 dT=-0.1 dH=-1 slope=14ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=451us actduty=0.00% wifi=up up=1086s
+19:43:22.396 Rs=292.02k ppm=454 T=26.7 H=66 dT=0.2 dH=-1 slope=43ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=461us actduty=0.00% wifi=up up=1088s
+19:43:24.624 Rs=292.85k ppm=450 T=26.0 H=66 dT=-0.5 dH=-1 slope=57ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=461us actduty=0.00% wifi=up up=1090s
+19:43:26.247 Rs=296.59k ppm=434 T=26.4 H=66 dT=-0.1 dH=-1 slope=48ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=463us actduty=0.00% wifi=up up=1091s
+19:43:31.764 Rs=298.11k ppm=428 T=26.1 H=66 dT=-0.4 dH=-1 slope=43ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=445us actduty=0.00% wifi=up up=1097s
+19:43:35.715 Rs=291.56k ppm=455 T=26.6 H=66 dT=0.1 dH=-1 slope=35ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=442us actduty=0.00% wifi=up up=1101s
+19:43:39.328 Rs=298.01k ppm=429 T=26.9 H=66 dT=0.4 dH=-1 slope=25ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=443us actduty=0.00% wifi=up up=1105s
+19:43:40.578 Rs=304.15k ppm=405 T=26.2 H=66 dT=-0.3 dH=-1 slope=-24ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=443us actduty=0.00% wifi=up up=1106s
+19:43:43.950 Rs=297.35k ppm=431 T=26.9 H=66 dT=0.4 dH=-1 slope=-31ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=447us actduty=0.00% wifi=up up=1109s
+19:43:49.595 Rs=293.49k ppm=447 T=26.0 H=66 dT=-0.5 dH=-1 slope=-21ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=445us actduty=0.00% wifi=up up=1115s
+19:43:51.051 Rs=304.55k ppm=404 T=26.5 H=66 dT=0.0 dH=-1 slope=-44ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=443us actduty=0.00% wifi=up up=1116s
+19:43:58.388 Rs=298.78k ppm=426 T=26.8 H=66 dT=0.3 dH=-1 slope=-32ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=444us actduty=0.00% wifi=up up=1124s
+19:44:09.091 [fb] write FAILED: response payload read timed out
+19:44:09.105 Rs=294.61k ppm=443 T=26.8 H=66 dT=0.3 dH=-0 slope=-6ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=443us actduty=0.00% wifi=up up=1134s
+19:44:44.698 Rs=295.45k ppm=439 T=26.6 H=65 dT=0.1 dH=-1 slope=17ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=446us actduty=0.00% wifi=up up=1170s
+19:44:48.168 Rs=302.67k ppm=411 T=26.4 H=65 dT=-0.1 dH=-1 slope=10ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=454us actduty=0.00% wifi=up up=1173s
+19:44:58.872 [fb] write FAILED: response payload read timed out
+19:44:58.882 Rs=311.69k ppm=379 T=26.2 H=64 dT=-0.3 dH=-2 slope=-41ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=443us actduty=0.00% wifi=up up=1184s
+19:45:19.341 > ERROR.mUpdateEngine: Error writing to basic client.
+19:45:19.345 > WARN.mRunUntil: Terminating with write error.
+19:45:19.354 > ERROR.mConnectSSL: Failed to initlalize the SSL layer.
+19:45:19.354 > ERROR.mConnectSSL: Unknown error code.
+19:45:19.359 [fb] write FAILED: connection refused
+19:45:19.371 Rs=298.88k ppm=425 T=26.2 H=64 dT=-0.3 dH=-1 slope=-24ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=445us actduty=0.00% wifi=up up=1205s
+19:45:38.359 > ERROR.mUpdateEngine: Error writing to basic client.
+19:45:38.363 > WARN.mRunUntil: Terminating with write error.
+19:45:38.373 > ERROR.mConnectSSL: Failed to initlalize the SSL layer.
+19:45:38.375 > ERROR.mConnectSSL: Unknown error code.
+19:45:38.376 [fb] write FAILED: connection refused
+19:45:38.390 Rs=297.35k ppm=431 T=26.2 H=64 dT=-0.3 dH=-1 slope=9ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=446us actduty=0.00% wifi=up up=1224s
+19:46:52.489 > ERROR.mRunUntil: SSL internals timed out!
+19:46:52.493 > ERROR.mConnectSSL: Failed to initlalize the SSL layer.
+19:46:52.497 > ERROR.mConnectSSL: Unknown error code.
+19:47:02.514 [fb] write FAILED: response payload read timed out
+19:47:02.529 Rs=293.87k ppm=446 T=26.4 H=65 dT=-0.1 dH=0 slope=4ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=445us actduty=0.00% wifi=up up=1308s
+19:47:13.221 [fb] write FAILED: response payload read timed out
+19:47:13.234 Rs=297.54k ppm=431 T=26.7 H=64 dT=0.2 dH=-0 slope=-14ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=445us actduty=0.00% wifi=up up=1318s
+19:47:43.999 [fb] write FAILED: response payload read timed out
+19:47:44.007 Rs=298.59k ppm=426 T=26.7 H=64 dT=0.4 dH=-0 slope=-7ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=445us actduty=0.00% wifi=up up=1349s
+19:47:54.719 [fb] write FAILED: response payload read timed out
+19:47:54.728 Rs=297.73k ppm=430 T=25.7 H=64 dT=-0.5 dH=-0 slope=-7ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=442us actduty=0.00% wifi=up up=1360s
+19:48:05.444 [fb] write FAILED: response payload read timed out
+19:48:05.454 Rs=305.25k ppm=401 T=25.4 H=64 dT=-0.7 dH=-0 slope=-34ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=443us actduty=0.00% wifi=up up=1371s
+19:48:16.167 [fb] write FAILED: response payload read timed out
+19:48:16.179 Rs=298.40k ppm=427 T=25.8 H=64 dT=-0.3 dH=-0 slope=-43ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=443us actduty=0.00% wifi=up up=1381s
+19:48:26.887 [fb] write FAILED: response payload read timed out
+19:48:26.900 Rs=294.99k ppm=441 T=25.1 H=63 dT=-0.9 dH=-1 slope=26ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=446us actduty=0.00% wifi=up up=1392s
+19:48:37.614 [fb] write FAILED: response payload read timed out
+19:48:37.625 Rs=295.08k ppm=441 T=25.1 H=63 dT=-0.8 dH=-1 slope=20ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=445us actduty=0.00% wifi=up up=1403s
+19:48:48.334 [fb] write FAILED: response payload read timed out
+19:48:48.346 Rs=304.85k ppm=403 T=25.4 H=63 dT=-0.5 dH=-1 slope=-26ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=444us actduty=0.00% wifi=up up=1414s
+19:48:59.059 [fb] write FAILED: response payload read timed out
+19:48:59.069 Rs=292.57k ppm=451 T=25.8 H=63 dT=-0.1 dH=-1 slope=31ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=442us actduty=0.00% wifi=up up=1424s
+19:49:09.777 [fb] write FAILED: response payload read timed out
+19:49:09.789 Rs=297.44k ppm=431 T=25.5 H=63 dT=-0.3 dH=-1 slope=-22ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=442us actduty=0.00% wifi=up up=1435s
+19:49:20.501 [fb] write FAILED: response payload read timed out
+19:49:20.514 Rs=294.05k ppm=445 T=25.3 H=63 dT=-0.5 dH=-1 slope=-7ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=445us actduty=0.00% wifi=up up=1446s
+19:49:31.226 [fb] write FAILED: response payload read timed out
+19:49:31.238 Rs=292.85k ppm=450 T=25.5 H=62 dT=-0.3 dH=-1 slope=34ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=444us actduty=0.00% wifi=up up=1456s
+19:49:41.950 [fb] write FAILED: response payload read timed out
+19:49:41.963 Rs=294.89k ppm=441 T=25.8 H=63 dT=0.1 dH=-0 slope=-13ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=444us actduty=0.00% wifi=up up=1467s
+19:49:52.676 [fb] write FAILED: response payload read timed out
+19:49:52.689 Rs=301.59k ppm=415 T=25.6 H=62 dT=-0.1 dH=-1 slope=-40ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=444us actduty=0.00% wifi=up up=1478s
+19:50:03.389 [fb] write FAILED: response payload read timed out
+19:50:03.398 Rs=295.64k ppm=438 T=25.0 H=62 dT=-0.7 dH=-1 slope=-3ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=454us actduty=0.00% wifi=up up=1489s
+19:50:14.120 [fb] write FAILED: response payload read timed out
+19:50:14.129 Rs=292.75k ppm=450 T=25.3 H=62 dT=-0.4 dH=-1 slope=42ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=470us actduty=0.00% wifi=up up=1499s
+19:50:24.843 [fb] write FAILED: response payload read timed out
+19:50:24.856 Rs=304.15k ppm=405 T=25.6 H=62 dT=-0.1 dH=-1 slope=-25ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=443us actduty=0.00% wifi=up up=1510s
+19:50:35.564 [fb] write FAILED: response payload read timed out
+19:50:35.574 Rs=294.33k ppm=444 T=25.9 H=62 dT=0.2 dH=-1 slope=-35ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=454us actduty=0.00% wifi=up up=1521s
+19:50:43.806 Rs=294.33k ppm=444 T=25.6 H=63 dT=-0.1 dH=0 slope=51ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=445us actduty=0.00% wifi=up up=1529s
+19:50:53.935 Rs=297.63k ppm=430 T=25.4 H=63 dT=-0.2 dH=0 slope=13ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=444us actduty=0.00% wifi=up up=1539s
+19:51:04.637 [fb] write FAILED: response payload read timed out
+19:51:04.650 Rs=310.86k ppm=381 T=25.2 H=62 dT=-0.4 dH=-1 slope=-138ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=444us actduty=0.00% wifi=up up=1550s
+19:52:17.081 > ERROR.mRunUntil: SSL internals timed out!
+19:52:17.090 > ERROR.mConnectSSL: Failed to initlalize the SSL layer.
+19:52:17.090 > ERROR.mConnectSSL: Unknown error code.
+19:52:27.112 [fb] write FAILED: response payload read timed out
+19:52:27.125 Rs=305.45k ppm=400 T=25.8 H=62 dT=0.3 dH=-0 slope=-109ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=448us actduty=0.00% wifi=up up=1632s
+19:52:37.815 [fb] write FAILED: response payload read timed out
+19:52:37.827 Rs=316.13k ppm=364 T=25.1 H=62 dT=-0.4 dH=-0 slope=-32ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=444us actduty=0.00% wifi=up up=1643s
+19:53:08.589 [fb] write FAILED: response payload read timed out
+19:53:08.602 Rs=308.90k ppm=388 T=25.0 H=62 dT=-0.5 dH=-0 slope=-29ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=446us actduty=0.00% wifi=up up=1674s
+19:53:19.320 [fb] write FAILED: response payload read timed out
+19:53:19.333 Rs=304.85k ppm=403 T=25.7 H=63 dT=0.2 dH=0 slope=9ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=445us actduty=0.00% wifi=up up=1685s
+19:53:30.044 [fb] write FAILED: response payload read timed out
+19:53:30.054 Rs=306.76k ppm=396 T=25.5 H=64 dT=-0.0 dH=1 slope=35ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=443us actduty=0.00% wifi=up up=1695s
+19:53:40.764 [fb] write FAILED: response payload read timed out
+19:53:40.775 Rs=302.57k ppm=411 T=25.9 H=64 dT=0.4 dH=1 slope=21ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=443us actduty=0.00% wifi=up up=1706s
+19:53:51.492 [fb] write FAILED: response payload read timed out
+19:53:51.504 Rs=302.08k ppm=413 T=25.1 H=64 dT=-0.4 dH=1 slope=4ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=443us actduty=0.00% wifi=up up=1717s
+19:54:02.216 [fb] write FAILED: response payload read timed out
+19:54:02.229 Rs=305.35k ppm=401 T=25.2 H=64 dT=-0.3 dH=1 slope=-12ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=444us actduty=0.00% wifi=up up=1727s
+19:54:12.944 [fb] write FAILED: response payload read timed out
+19:54:12.953 Rs=310.75k ppm=382 T=25.7 H=64 dT=0.2 dH=1 slope=-36ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=442us actduty=0.00% wifi=up up=1738s
+19:54:23.671 [fb] write FAILED: response payload read timed out
+19:54:23.683 Rs=302.47k ppm=411 T=25.0 H=65 dT=-0.5 dH=2 slope=24ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=455us actduty=0.00% wifi=up up=1749s
+19:54:34.397 [fb] write FAILED: response payload read timed out
+19:54:34.407 Rs=300.52k ppm=419 T=25.3 H=65 dT=-0.2 dH=2 slope=57ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=443us actduty=0.00% wifi=up up=1760s
+19:54:45.124 [fb] write FAILED: response payload read timed out
+19:54:45.136 Rs=306.05k ppm=398 T=25.0 H=65 dT=-0.5 dH=1 slope=2ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=442us actduty=0.00% wifi=up up=1770s
+19:54:55.845 [fb] write FAILED: response payload read timed out
+19:54:55.853 Rs=308.18k ppm=391 T=25.8 H=65 dT=0.3 dH=1 slope=-68ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=444us actduty=0.00% wifi=up up=1781s
+19:55:06.565 [fb] write FAILED: response payload read timed out
+19:55:06.578 Rs=302.37k ppm=412 T=25.4 H=65 dT=-0.1 dH=1 slope=-11ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=444us actduty=0.00% wifi=up up=1792s
+19:55:17.291 [fb] write FAILED: response payload read timed out
+19:55:17.304 Rs=304.35k ppm=404 T=25.5 H=65 dT=0.0 dH=1 slope=6ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=443us actduty=0.00% wifi=up up=1803s
+19:55:28.014 [fb] write FAILED: response payload read timed out
+19:55:28.026 Rs=301.59k ppm=415 T=25.3 H=66 dT=-0.1 dH=2 slope=-11ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=443us actduty=0.00% wifi=up up=1813s
+19:55:38.738 [fb] write FAILED: response payload read timed out
+19:55:38.747 Rs=303.76k ppm=407 T=25.6 H=65 dT=0.2 dH=1 slope=27ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=445us actduty=0.00% wifi=up up=1824s
+19:55:49.460 [fb] write FAILED: response payload read timed out
+19:55:49.473 Rs=304.65k ppm=403 T=25.1 H=65 dT=-0.4 dH=1 slope=26ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=446us actduty=0.00% wifi=up up=1835s
+19:56:00.183 [fb] write FAILED: response payload read timed out
+19:56:00.196 Rs=300.42k ppm=419 T=26.2 H=65 dT=0.6 dH=1 slope=-15ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=443us actduty=0.00% wifi=up up=1845s
+19:56:10.910 [fb] write FAILED: response payload read timed out
+19:56:10.922 Rs=301.98k ppm=413 T=26.1 H=65 dT=0.4 dH=0 slope=8ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=441us actduty=0.00% wifi=up up=1856s
+19:56:21.636 [fb] write FAILED: response payload read timed out
+19:56:21.647 Rs=306.26k ppm=397 T=26.7 H=65 dT=0.9 dH=0 slope=11ppm/min eta=-s state=NORMAL sev=0 relay=0 lat=442us actduty=0.00% wifi=up up=1867s

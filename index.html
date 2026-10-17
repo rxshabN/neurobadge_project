@@ -17,6 +17,21 @@
         align-items: center;
         margin-top: 50px;
       }
+      .grid {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 20px;
+        max-width: 1200px;
+      }
+      .grid .card {
+        margin-bottom: 0;
+      }
+      .sub-value {
+        font-size: 1.1rem;
+        color: #94a3b8;
+        margin: 4px 0;
+      }
       .card {
         background-color: #1e293b;
         padding: 30px;
@@ -70,22 +85,48 @@
       >
         Connecting...
       </div>
-      <div id="alertBox" class="status-alert">⚠️ ACTION REQUIRED ⚠️</div>
+      <div id="alertBox" class="status-alert"></div>
     </div>
 
-    <div class="card">
-      <h2>Air Quality (CO2e)</h2>
-      <div id="aqiValue" class="data-value">-- PPM</div>
-    </div>
+    <div class="grid">
+      <div class="card">
+        <h2>Air Quality (CO2e)</h2>
+        <div id="aqiValue" class="data-value">-- PPM</div>
+      </div>
 
-    <div class="card">
-      <h2>Temperature</h2>
-      <div id="tempValue" class="data-value">-- °C</div>
-    </div>
+      <div class="card">
+        <h2>Temperature</h2>
+        <div id="tempValue" class="data-value">-- °C</div>
+      </div>
 
-    <div class="card">
-      <h2>Relative Humidity</h2>
-      <div id="humValue" class="data-value">-- %</div>
+      <div class="card">
+        <h2>Relative Humidity</h2>
+        <div id="humValue" class="data-value">-- %</div>
+      </div>
+
+      <div class="card">
+        <h2>Severity and Trend</h2>
+        <div id="sevValue" class="data-value">--</div>
+        <div id="slopeValue" class="sub-value">Rate of rise: -- ppm/min</div>
+        <div id="etaValue" class="sub-value">Time to threshold: --</div>
+      </div>
+
+      <div class="card" id="relayCard">
+        <h2>Ventilation Relay</h2>
+        <div id="relayValue" class="data-value" style="font-size: 2rem">--</div>
+      </div>
+
+      <div class="card">
+        <h2>Measured Latency</h2>
+        <div id="latValue" class="data-value">-- µs</div>
+        <div class="sub-value">sample to relay drive, measured on device</div>
+      </div>
+
+      <div class="card">
+        <h2>Fatigue Log</h2>
+        <div id="fatigueValue" class="data-value">-- PPM</div>
+        <div class="sub-value">concentration at the last button press</div>
+      </div>
     </div>
 
     <script>
@@ -103,39 +144,69 @@
       firebase.initializeApp(firebaseConfig);
       const database = firebase.database();
 
-      const aqiRef = database.ref("NeuroBadge/AQI");
-      const tempRef = database.ref("NeuroBadge/Temperature");
-      const statusRef = database.ref("NeuroBadge/Status");
-      const humRef = database.ref("NeuroBadge/Humidity");
+      const ALERTS = {
+        "PRE-VENT": ["Rising trend: ventilation started early", "#f59e0b"],
+        VENTILATE: ["Occupancy build-up: ventilation ON", "#f97316"],
+        ISOLATE: ["Chemical ingress: ventilation WITHHELD, leave or remove the source", "#ef4444"],
+        "SENSOR FAULT": ["Sensing lost: relay holding its last command", "#64748b"],
+        "FATIGUE LOGGED": ["Fatigue event logged", "#a855f7"],
+      };
 
-      aqiRef.on("value", (snapshot) => {
-        const val = snapshot.val();
-        document.getElementById("aqiValue").innerText =
-          (val !== null ? val : "--") + " PPM";
+      function bind(path, fn) {
+        database.ref("NeuroBadge/" + path).on(
+          "value",
+          (snap) => fn(snap.val()),
+          (err) => {
+            document.getElementById("statusText").innerText = "Read blocked: " + err.code;
+            console.error("Firebase read failed for " + path, err);
+          }
+        );
+      }
+      function setText(id, text) {
+        document.getElementById(id).innerText = text;
+      }
+      function shown(v, suffix) {
+        return (v !== null && v !== undefined ? v : "--") + suffix;
+      }
+
+      bind("AQI", (v) => setText("aqiValue", shown(v, " PPM")));
+      bind("Temperature", (v) =>
+        setText("tempValue", shown(v !== null ? Number(v).toFixed(1) : null, " °C"))
+      );
+      bind("Humidity", (v) =>
+        setText("humValue", shown(v !== null ? Number(v).toFixed(0) : null, " %"))
+      );
+      bind("Severity", (v) => setText("sevValue", shown(v, " / 100")));
+      bind("SlopePpmMin", (v) =>
+        setText("slopeValue", "Rate of rise: " + shown(v !== null ? Number(v).toFixed(0) : null, " ppm/min"))
+      );
+      bind("EtaSeconds", (v) =>
+        setText("etaValue", "Time to threshold: " + (v === null || v < 0 ? "not approaching" : v + " s"))
+      );
+      bind("LatencyUs", (v) => setText("latValue", shown(v, " µs")));
+      bind("FatigueAtPPM", (v) => setText("fatigueValue", shown(v, " PPM")));
+
+      bind("Relay", (v) => {
+        const card = document.getElementById("relayCard");
+        if (v === null) {
+          setText("relayValue", "--");
+          return;
+        }
+        setText("relayValue", v ? "CLOSED (ventilating)" : "OPEN");
+        card.style.borderTop = v ? "5px solid #22c55e" : "5px solid #3b82f6";
       });
 
-      tempRef.on("value", (snapshot) => {
-        const val = snapshot.val();
-        document.getElementById("tempValue").innerText =
-          (val !== null ? val : "--") + " °C";
-      });
-
-      humRef.on("value", (snapshot) => {
-        const val = snapshot.val();
-        document.getElementById("humValue").innerText =
-          (val !== null ? val : "--") + " %";
-      });
-
-      statusRef.on("value", (snapshot) => {
-        const status = snapshot.val() || "Waiting for data...";
-        document.getElementById("statusText").innerText = status;
-
+      bind("Status", (v) => {
+        const status = v || "Waiting for data...";
+        setText("statusText", status);
         const alertBox = document.getElementById("alertBox");
         const statusCard = document.getElementById("statusCard");
-
-        if (status.includes("FATIGUE") || status.includes("ACT:")) {
+        const alert = ALERTS[status];
+        if (alert) {
+          alertBox.innerText = alert[0];
+          alertBox.style.backgroundColor = alert[1];
           alertBox.style.display = "block";
-          statusCard.style.borderTop = "5px solid #ef4444";
+          statusCard.style.borderTop = "5px solid " + alert[1];
         } else {
           alertBox.style.display = "none";
           statusCard.style.borderTop = "5px solid #3b82f6";
